@@ -1,6 +1,12 @@
 
 # HybridGifts
 
+## Version
+- Unity: 2022.3.29f1
+- ARFoundation: 5.1
+- iOS 13
+
+
 ## Commit message format
 Here's a format for GitHub commit messages, which follows the Conventional Commits specification:
 ```

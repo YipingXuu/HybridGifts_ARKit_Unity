@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ReferenceLibrary: {fileID: 11400000, guid: 9868e91f07a8747edad3816c4928b3a7, type: 2}
-  m_TrackedObjectPrefab: {fileID: 1362899771367802, guid: d70206263780844d1ac3e64fe264d7b4,
+  m_TrackedObjectPrefab: {fileID: 821109796115157196, guid: fa171c0ad8d56419185301293b4db497,
     type: 3}
 --- !u!114 &612392247
 MonoBehaviour:
@@ -1482,10 +1482,10 @@ MonoBehaviour:
   m_TrackingStateInput:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Tracking State Input
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 9217f191-6e45-4b74-aef8-15cf6560fa5f
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []

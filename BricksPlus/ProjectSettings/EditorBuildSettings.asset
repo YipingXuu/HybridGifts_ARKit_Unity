@@ -176,9 +176,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Meta/MetaDisplayRefreshRate.unity
     guid: 07970a1a9455f4309b8e99b1c88daa98
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/1HybridGifts/Plane_Avatar.unity
     guid: 573d31d569f8c4db68156ba143f89bc4
+  - enabled: 1
+    path: Assets/Scenes/1HybridGifts/Object_Tracking.unity
+    guid: aacf393bf64d64c8a961d1c5109ba114
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c52d3bb36b4c86f47af54ab9c7a02589,
       type: 2}

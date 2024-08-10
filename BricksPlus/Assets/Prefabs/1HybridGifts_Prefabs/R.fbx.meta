@@ -8,42 +8,42 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: R_GroupU
-    second: {fileID: 2800000, guid: c1be021399c2440b0ad2739c52d1d3f1, type: 3}
+    second: {fileID: 2800000, guid: 1fccfe667c1854847a7e4c53e8f49893, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: R_headset
-    second: {fileID: 2800000, guid: 6625735f0eec4429f9ef7c764d52ed25, type: 3}
+    second: {fileID: 2800000, guid: 63bad31c0975b41718fde599506289a1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: R_movie
-    second: {fileID: 2800000, guid: f9d651b990991443e8b004b09c36e378, type: 3}
+    second: {fileID: 2800000, guid: 621f88d45caab4320a4426492ec324ce, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: R_selfie
-    second: {fileID: 2800000, guid: 8901fe11146aa4273923f62f19c9bad7, type: 3}
+    second: {fileID: 2800000, guid: 8b29cc95a7c03487a803294a08bcf37d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: R_sushi
-    second: {fileID: 2800000, guid: 9e844723626b24cf19cfc4a96cd575ef, type: 3}
+    second: {fileID: 2800000, guid: 15fffc004ca684a42b8c194247dece7c, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: R_vietnam
-    second: {fileID: 2800000, guid: 6680130d280694ca3a7d395f57c00b8b, type: 3}
+    second: {fileID: 2800000, guid: ea605545913074c3e983275f5519b064, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: mesh-134
-    second: {fileID: 2800000, guid: f7b812a1fecb243ce8c9ed73eb7c61cc, type: 3}
+    second: {fileID: 2800000, guid: 8778fc54b85dd4b33af20c7b0d273caa, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: text
-    second: {fileID: 2800000, guid: 98861893b23504217a2f06dec0dccb8b, type: 3}
+    second: {fileID: 2800000, guid: 652e694e0bbc04ad08b5996f67efe8d2, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -20,8 +20,3 @@ MonoBehaviour:
     m_Name: Succulent
     m_Entries:
     - {fileID: -6831329414088302235, guid: 23ea534a3d1674d1aafcd72e1416effa, type: 3}
-  - m_GuidLow: 5505499164487269751
-    m_GuidHigh: 1592744926218844058
-    m_Name: Decoration
-    m_Entries:
-    - {fileID: -6831329414088302235, guid: 167b2376b4ba84c26b9514f5bd1fabaa, type: 3}

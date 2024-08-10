@@ -4,7 +4,7 @@
 ## Version
 - Unity: 2022.3.29f1
 - ARFoundation: 5.1
-- iOS 13
+- iOS 17.6.1
 
 
 ## Commit message format

@@ -7,18 +7,43 @@ ModelImporter:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: R_Selfie
-    second: {fileID: 2800000, guid: 66ce99be53c424f828880732f642db47, type: 3}
+      name: R_GroupU
+    second: {fileID: 2800000, guid: b8c8fdfa9bf67423aacdae3d42c1630c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: R_headset
+    second: {fileID: 2800000, guid: 5454a0c83f8904d35911ab7a5219bdce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: R_movie
+    second: {fileID: 2800000, guid: 13738d87da84c4758b950f2377c8c756, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: R_selfie
+    second: {fileID: 2800000, guid: 80f6ba0265ab54257a831aa8adecb35f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: R_sushi
+    second: {fileID: 2800000, guid: 2f3b1cdb3d59f40be9426bb19171604e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: R_vietnam
+    second: {fileID: 2800000, guid: 6492090e978354bdf81a469152133abd, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: mesh-134
-    second: {fileID: 2800000, guid: 619ffb147b777482b8798811642a51c1, type: 3}
+    second: {fileID: 2800000, guid: 8189275ddd2ff43be839574f1c45244d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: text
-    second: {fileID: 2800000, guid: 608c179560e7848c585599526776dfcb, type: 3}
+    second: {fileID: 2800000, guid: edce54f5ebfe1474584016cf16816121, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

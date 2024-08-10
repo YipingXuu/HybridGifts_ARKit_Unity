@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ReferenceLibrary: {fileID: 11400000, guid: be1f2e89c0a194f90acddd50e5fbef88, type: 2}
-  m_TrackedObjectPrefab: {fileID: 2588566775650896954, guid: d38cc12c12fbb470eabeb91c5477313d,
+  m_TrackedObjectPrefab: {fileID: 1346866231780675657, guid: 1780415ba3d9b4b9fb4c33a7215553fa,
     type: 3}
 --- !u!114 &612392247
 MonoBehaviour:
@@ -189,7 +189,6 @@ Transform:
   - {fileID: 1735522169}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-    serializedVersion: 3
 --- !u!1 &1268556707
 GameObject:
   m_ObjectHideFlags: 0

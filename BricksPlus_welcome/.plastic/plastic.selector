@@ -1,0 +1,4 @@
+repository "BricksPlus_welcome@Yiping1@cloud"
+  path "/"
+    br "/main"
+    co "/main"

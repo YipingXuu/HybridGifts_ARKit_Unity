@@ -263,21 +263,21 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.SpriteState
     - UnityEngine.UI.Toggle/ToggleEvent
   methodsToPreserve:
-  - assembly: Unity.XR.ARFoundation
-    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
-    methodName: HighlightButton
-  - assembly: Unity.XR.ARFoundation
-    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
-    methodName: HighlightButton
-  - assembly: Unity.XR.ARFoundation
-    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
-    methodName: HighlightButton
-  - assembly: Unity.XR.ARFoundation
-    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
-    methodName: HighlightButton
   - assembly: Assembly-CSharp
     fullTypeName: GoalManager
     methodName: StartCoaching
+  - assembly: Unity.XR.ARFoundation
+    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
+    methodName: HighlightButton
+  - assembly: Unity.XR.ARFoundation
+    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
+    methodName: HighlightButton
+  - assembly: Unity.XR.ARFoundation
+    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
+    methodName: HighlightButton
+  - assembly: Unity.XR.ARFoundation
+    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
+    methodName: HighlightButton
   - assembly: Assembly-CSharp
     fullTypeName: ARTemplateMenuManager
     methodName: SetObjectToSpawn

@@ -1,0 +1,401 @@
+Unity Editor version:    2022.3.29f1 (8d510ca76d2b)
+Branch:                  2022.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.5 (Build 23F79)
+Darwin version:          23.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63524
+Successfully changed project path to: /Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome
+/Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8581598208] Host "[IP] 10.138.183.4 [Port] 0 [Flags] 2 [Guid] 1445875172 [EditorId] 1445875172 [Version] 1048832 [Id] OSXEditor(0,xuyipingdeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8581598208] Host "[IP] 10.138.183.4 [Port] 0 [Flags] 2 [Guid] 1445875172 [EditorId] 1445875172 [Version] 1048832 [Id] OSXEditor(0,xuyipingdeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 41.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.29f1 (8d510ca76d2b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56323
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.008623 seconds.
+- Loaded All Assemblies, in  0.971 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.088 seconds
+Domain Reload Profiling: 2060ms
+	BeginReloadAssembly (282ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (89ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (121ms)
+	LoadAllAssembliesAndSetupDomain (450ms)
+		LoadAssemblies (282ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (442ms)
+			TypeCache.Refresh (440ms)
+				TypeCache.ScanAssembly (403ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (1089ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (947ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (445ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (385ms)
+			ProcessInitializeOnLoadMethodAttributes (99ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.101 seconds
+Refreshing native plugins compatible for Editor in 4.25 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.403 seconds
+Domain Reload Profiling: 4544ms
+	BeginReloadAssembly (443ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (107ms)
+	RebuildCommonClasses (95ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (87ms)
+	LoadAllAssembliesAndSetupDomain (1486ms)
+		LoadAssemblies (858ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (734ms)
+			TypeCache.Refresh (638ms)
+				TypeCache.ScanAssembly (542ms)
+			ScanForSourceGeneratedMonoScriptInfo (57ms)
+			ResolveRequiredComponents (37ms)
+	FinalizeReload (2404ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1939ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (83ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (200ms)
+			ProcessInitializeOnLoadAttributes (1511ms)
+			ProcessInitializeOnLoadMethodAttributes (133ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.37 seconds
+Refreshing native plugins compatible for Editor in 5.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6867 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 138 unused Assets / (4.2 MB). Loaded Objects now: 7278.
+Memory consumption went from 265.8 MB to 261.6 MB.
+Total: 41.757000 ms (FindLiveObjects: 3.167917 ms CreateObjectMapping: 0.994083 ms MarkObjects: 26.757083 ms  DeleteObjects: 10.836875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 166156.987081 seconds.
+  path: Assets/Scenes/welcome_R.unity
+  artifactKey: Guid(4755b35b590504809a7525fd2109c2e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/welcome_R.unity using Guid(4755b35b590504809a7525fd2109c2e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977c8491746f669ce321dd7bb24e14dd') in 0.019758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 10.042935 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx
+  artifactKey: Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx using Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb10ae9081c995fd1865fc98a68be4fd') in 1.918712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 229
+========================================================================
+Received Import Request.
+  Time since last request: 6.417009 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx
+  artifactKey: Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx using Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cad8d757d996a416447e2e2ee5450bb') in 0.798572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 231
+========================================================================
+Received Import Request.
+  Time since last request: 18.101830 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx
+  artifactKey: Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx using Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9257b8f8c0253443d7f8996ab560a46') in 0.754443 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 231
+========================================================================
+Received Import Request.
+  Time since last request: 52.831353 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx
+  artifactKey: Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx using Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bae25d0ca99e8615f5677175cf276aa') in 1.019813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 239
+========================================================================
+Received Import Request.
+  Time since last request: 8.068072 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx
+  artifactKey: Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.fbx using Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0a61dde495beccf77305d4ba2dad59') in 0.455552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 239
+========================================================================
+Received Import Request.
+  Time since last request: 21.487364 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey_AnimatorController.controller
+  artifactKey: Guid(9dcc16791f73e4028a16cfb85e09f2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey_AnimatorController.controller using Guid(9dcc16791f73e4028a16cfb85e09f2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8023b350be280834584192183c94b05') in 0.066980 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 32.419233 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey_AnimatorController.controller
+  artifactKey: Guid(9dcc16791f73e4028a16cfb85e09f2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey_AnimatorController.controller using Guid(9dcc16791f73e4028a16cfb85e09f2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833d3fa5719190709ec4d75f35a8e4b9') in 0.028761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 31.165949 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab
+  artifactKey: Guid(a637d6b7efa9c494cbf2d0c285265f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab using Guid(a637d6b7efa9c494cbf2d0c285265f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83569da965cea87c2a377e53e072f576') in 0.399072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 449
+========================================================================
+Received Import Request.
+  Time since last request: 7.095191 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing_origin.fbx
+  artifactKey: Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing_origin.fbx using Guid(9678fbf4381df43988277a80ec78a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7577f595bc55300ab499796afa25153f') in 0.565041 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 239
+[usbmuxd] Attached: 8 00008020-000335100104003A
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 32.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.3 MB). Loaded Objects now: 7409.
+Memory consumption went from 141.6 MB to 137.3 MB.
+Total: 185.644166 ms (FindLiveObjects: 1.162875 ms CreateObjectMapping: 0.205084 ms MarkObjects: 180.539334 ms  DeleteObjects: 3.732625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 303.636769 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab
+  artifactKey: Guid(a637d6b7efa9c494cbf2d0c285265f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab using Guid(a637d6b7efa9c494cbf2d0c285265f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ff41961b55f41630f3e97f156bbdf7') in 0.252588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 449
+========================================================================
+Received Import Request.
+  Time since last request: 103.464876 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing_origin.prefab
+  artifactKey: Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing_origin.prefab using Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098d5d45bf1e4e02b5d7a92bc67ef686') in 0.142640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 437
+========================================================================
+Received Import Request.
+  Time since last request: 6.070515 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab
+  artifactKey: Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab using Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '634f5446c9cdfde520f3f44b43ed3a2d') in 0.076039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 437
+========================================================================
+Received Import Request.
+  Time since last request: 3.277575 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab
+  artifactKey: Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab using Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9dd7aca6e3b0fb7ae5aec56f5081cf5') in 0.052558 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 437
+========================================================================
+Received Import Request.
+  Time since last request: 2.043351 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab
+  artifactKey: Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab using Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1109a5b41c6eff7e61691bfc4c578680') in 0.046454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 437
+========================================================================
+Received Import Request.
+  Time since last request: 15.337373 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab
+  artifactKey: Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey@Hip Hop Dancing.prefab using Guid(867f772c5ee96492692c71d32561e351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f15f43c1ee21541fe7b2b4de9028b41') in 0.095934 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 441
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.3 MB). Loaded Objects now: 7409.
+Memory consumption went from 138.8 MB to 134.5 MB.
+Total: 51.411292 ms (FindLiveObjects: 1.559458 ms CreateObjectMapping: 0.360250 ms MarkObjects: 42.696667 ms  DeleteObjects: 6.793500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.3 MB). Loaded Objects now: 7409.
+Memory consumption went from 136.8 MB to 132.5 MB.
+Total: 39.904459 ms (FindLiveObjects: 1.548792 ms CreateObjectMapping: 0.164750 ms MarkObjects: 29.525250 ms  DeleteObjects: 8.664542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+[usbmuxd] Detached: 8 00008020-000335100104003A

@@ -1058,3 +1058,707 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4077.135770 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants
+  artifactKey: Guid(93c99f53bfc1b4dcda3083bde1f7eaa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants using Guid(93c99f53bfc1b4dcda3083bde1f7eaa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f72c3c4699bb44bf981f73143381492') in 0.023566 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.353172 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants
+  artifactKey: Guid(93c99f53bfc1b4dcda3083bde1f7eaa9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants using Guid(93c99f53bfc1b4dcda3083bde1f7eaa9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '506c6c06845b8fad9496f6769ca2c7b2') in 1.795927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 12.379640 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures/1_wire_113098098_color.tga.png
+  artifactKey: Guid(80c5943ca696c4d6fac3eed1e5eb810f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures/1_wire_113098098_color.tga.png using Guid(80c5943ca696c4d6fac3eed1e5eb810f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'abfb3957cd7b761d0740f0cead6cccfd') in 0.161453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source
+  artifactKey: Guid(12e478f4d0dd14e33971d59eddc77c9a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source using Guid(12e478f4d0dd14e33971d59eddc77c9a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'c8024db37ed886f9f4c7dd9d40119c26') in 0.009779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000623 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day
+  artifactKey: Guid(618dfd70b27974d379c3fe7c58d58679) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day using Guid(618dfd70b27974d379c3fe7c58d58679) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b73d0f42684996f209baaf3b7386a84f') in 0.010135 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures
+  artifactKey: Guid(3b2075a99e7b74df289c4f5558f80d21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures using Guid(3b2075a99e7b74df289c4f5558f80d21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b96f9a4b6f4dcc7bdf7760c7ff5ec7b0') in 0.009167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/111.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/111.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a1afd1eede0ed098e379e4288955d174') in 0.781302 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1461
+========================================================================
+Received Import Request.
+  Time since last request: 132.587903 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/source
+  artifactKey: Guid(15c238ec93b1c4f7e9f20da56a8f609c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/source using Guid(15c238ec93b1c4f7e9f20da56a8f609c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e2dbcddaa5ae97858a616524b1f6a6f3') in 0.076155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures/giftbox_Metallic.png
+  artifactKey: Guid(896629cea89334b1c8ab4a59c887a6ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures/giftbox_Metallic.png using Guid(896629cea89334b1c8ab4a59c887a6ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b10ecc7c431e9de326b71718e5714ce4') in 0.023433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures/giftbox_Normal.png
+  artifactKey: Guid(f7cb32cf879f540bc8c4c06d60396f7c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures/giftbox_Normal.png using Guid(f7cb32cf879f540bc8c4c06d60396f7c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '11fad3cd47a03b1477b90a7d4dea70b9') in 0.012602 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures/giftbox_Roughness.png
+  artifactKey: Guid(b708b26d6b97f4bf1a0b2bcd93a254c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures/giftbox_Roughness.png using Guid(b708b26d6b97f4bf1a0b2bcd93a254c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '1f7517b22a4490a836ca6b80b8e499a9') in 0.013635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures/giftbox_AO.png
+  artifactKey: Guid(fa1334e903939438f83b07786aa55587) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures/giftbox_AO.png using Guid(fa1334e903939438f83b07786aa55587) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e28352f95eaa4c0486a993abd1213d26') in 0.015580 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box
+  artifactKey: Guid(c58fcde5333ac48edbc8d265d0e96e54) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box using Guid(c58fcde5333ac48edbc8d265d0e96e54) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4739b0aa91e360c4e9003c4e1c0e2a20') in 0.002937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures
+  artifactKey: Guid(98952cc9c903e4fdf88affd1f7d56e71) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/textures using Guid(98952cc9c903e4fdf88affd1f7d56e71) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '288a362c51d54eb6499b53db6f234be8') in 0.003310 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 32.465408 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade_plant.glb
+  artifactKey: Guid(a69c60ee1937f4eadbd05cd2978640bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade_plant.glb using Guid(a69c60ee1937f4eadbd05cd2978640bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'da2433b15e5dfe3feabb8c6a713387d8') in 0.063050 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.278769 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade_plant.glb
+  artifactKey: Guid(a69c60ee1937f4eadbd05cd2978640bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade_plant.glb using Guid(a69c60ee1937f4eadbd05cd2978640bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8677525d1205b194bef316c108dad41d') in 0.035376 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 15.376804 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box
+  artifactKey: Guid(c58fcde5333ac48edbc8d265d0e96e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box using Guid(c58fcde5333ac48edbc8d265d0e96e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '791ee3f9d3aeecc50c0bd10396339469') in 0.002052 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 10.420991 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/111.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/111.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3309a8392d33694db71a7ce110ced33b') in 2.467167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 7.775585 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bbfca4ff04dd8dc001a3e725834931') in 2.127113 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 9.328319 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/source/giftbox.zip
+  artifactKey: Guid(12a963f6b98674dffa20637725ea9b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/gift-box/source/giftbox.zip using Guid(12a963f6b98674dffa20637725ea9b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b573f8f53dccd2830f7f919066b42dc3') in 0.007028 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 48.014464 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/textures/giftbox_Albedo.png
+  artifactKey: Guid(80d528b15732b44f5b16c6645b76fcdb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/textures/giftbox_Albedo.png using Guid(80d528b15732b44f5b16c6645b76fcdb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '6aacb3ea03b600ac12622adea4347344') in 0.120765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/Giftbox.fbx
+  artifactKey: Guid(a36b219d3169b4c54a5f1ccfe69ca725) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/Giftbox.fbx using Guid(a36b219d3169b4c54a5f1ccfe69ca725) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '25552d9a40178a88038f4220465b088f') in 0.034683 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/textures/giftbox_Normal.png
+  artifactKey: Guid(0d2f04233ea014250929087e9cd17578) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/textures/giftbox_Normal.png using Guid(0d2f04233ea014250929087e9cd17578) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '7b328368aab7536174168e806c5b8c91') in 0.010618 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.916647 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox
+  artifactKey: Guid(6648ab79fb8c146f0b429fd3fc60fd71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox using Guid(6648ab79fb8c146f0b429fd3fc60fd71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9722e7b71355a79d4ed3d6ba0d122a9') in 0.001677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.627305 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/Giftbox.fbx
+  artifactKey: Guid(a36b219d3169b4c54a5f1ccfe69ca725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/Giftbox.fbx using Guid(a36b219d3169b4c54a5f1ccfe69ca725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dac74af6380f37e720893730b8cf42b3') in 0.118104 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 5.678017 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/textures
+  artifactKey: Guid(b6b96201fcd904b9ba23d6585642d432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/giftbox/textures using Guid(b6b96201fcd904b9ba23d6585642d432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8779548157f7d3007b878984e5c19ec8') in 0.002184 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 133.712793 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Giftbox.prefab
+  artifactKey: Guid(7d1d350efa36b439c89c089c1a20cf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Giftbox.prefab using Guid(7d1d350efa36b439c89c089c1a20cf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1566f762ce25a747efc1e4e07d62e2f') in 0.097392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.822487 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Giftbox.prefab
+  artifactKey: Guid(7d1d350efa36b439c89c089c1a20cf40) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Giftbox.prefab using Guid(7d1d350efa36b439c89c089c1a20cf40) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a0f63d40c1b2e089064830c38f8eac78') in 0.019530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 35.923092 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures/1_wire_113098098_color.tga.png
+  artifactKey: Guid(80c5943ca696c4d6fac3eed1e5eb810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures/1_wire_113098098_color.tga.png using Guid(80c5943ca696c4d6fac3eed1e5eb810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22377fc046644d568db6bf5718fb8a5b') in 0.173928 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.186235 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures/1_01___Default_color.tga.png
+  artifactKey: Guid(c9a05c3536b344e4486784efeaecf160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures/1_01___Default_color.tga.png using Guid(c9a05c3536b344e4486784efeaecf160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6259a4cae2190ae04ad5697130c801dd') in 0.021207 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 44.787867 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b554b4ee60f145cdd45ceceae7e35f19') in 2.723794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 0.288789 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath-day_materials
+  artifactKey: Guid(d1dd90fb6cf114c9fa7f99867a42b8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath-day_materials using Guid(d1dd90fb6cf114c9fa7f99867a42b8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911420bd8080da313cb1a01eca2bcbdb') in 0.001230 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 40.803442 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source
+  artifactKey: Guid(12e478f4d0dd14e33971d59eddc77c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source using Guid(12e478f4d0dd14e33971d59eddc77c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b50cce99b70f910645aa1267c112e8') in 0.001448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 34.220291 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath_AnimatorController.controller
+  artifactKey: Guid(98d6a50bbc7234b63bdeab545db0e791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath_AnimatorController.controller using Guid(98d6a50bbc7234b63bdeab545db0e791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea29d172fc2a8ca97a481d235d507df') in 0.013204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.858163 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath_AnimatorController.controller
+  artifactKey: Guid(98d6a50bbc7234b63bdeab545db0e791) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath_AnimatorController.controller using Guid(98d6a50bbc7234b63bdeab545db0e791) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '536a35b9d8b2116b483099b14c90f78d') in 0.054648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 44.309637 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath_AnimatorController.controller
+  artifactKey: Guid(98d6a50bbc7234b63bdeab545db0e791) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath_AnimatorController.controller using Guid(98d6a50bbc7234b63bdeab545db0e791) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '89da28152c25ef0203ff4c829498d081') in 0.057647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 42.652894 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath_AnimatorController.controller
+  artifactKey: Guid(98d6a50bbc7234b63bdeab545db0e791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Bath_AnimatorController.controller using Guid(98d6a50bbc7234b63bdeab545db0e791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d6a205b515865e93bc1b839ad43a21') in 0.031503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 18.223846 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4bd001d112ab446f87950dc75ea112c0') in 0.054225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 27.658623 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures
+  artifactKey: Guid(3b2075a99e7b74df289c4f5558f80d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/textures using Guid(3b2075a99e7b74df289c4f5558f80d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b9147ff6a1ffc9f15af743255c11c0') in 0.006437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 41.694417 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f75abcb700faa986bdee740b8330839a') in 1.960079 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 0.165257 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c277c678beb18770c6bf379d4b01cf') in 1.862975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/bath-day-01 - Default.mat
+  artifactKey: Guid(e44321c15a9fb451c978c3a7da0cbf41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/bath-day-01 - Default.mat using Guid(e44321c15a9fb451c978c3a7da0cbf41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b724be8abaf1b3af17af5473cc39f869') in 0.025118 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/bath-day-07 - Default.mat
+  artifactKey: Guid(7d60f50966a0c45f8aebe5113aec7c88) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/bath-day-07 - Default.mat using Guid(7d60f50966a0c45f8aebe5113aec7c88) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '807c75286b4fcb8f763cd28573344425') in 0.005262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.540004 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6241eb601175c8367aa03f9ffb6e5f9') in 1.865165 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 0.143198 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24021100d318717069c6424cb8b4050a') in 2.020736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 1.275556 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/08 - Default.mat
+  artifactKey: Guid(c3ef1be060e264a21b69cfe06f03e209) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/08 - Default.mat using Guid(c3ef1be060e264a21b69cfe06f03e209) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'dc4ee6cdce66fa03dbfca22679a2a4b1') in 0.019018 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/01 - Default.mat
+  artifactKey: Guid(1fa8955da35c640cbb58b2cbad5ce135) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/01 - Default.mat using Guid(1fa8955da35c640cbb58b2cbad5ce135) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '26a04b436638957c330587dc64fa5032') in 0.004267 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/02 - Default.mat
+  artifactKey: Guid(2ebc30514010e4c7ba74899b93394620) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/Materials/02 - Default.mat using Guid(2ebc30514010e4c7ba74899b93394620) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd0294522abeadbaf9e35f4df49f80309') in 0.004105 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.844099 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e38c1ff6fa441f0cbb81c11fe4bd88') in 2.280508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 1.075260 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b4dbe5eeefb216e14933c3d0e7a3c6') in 2.024502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 9.801094 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/1_01___Default_color.tga.png
+  artifactKey: Guid(9bb523ee879ad4c5e92b5b928dcbd191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/1_01___Default_color.tga.png using Guid(9bb523ee879ad4c5e92b5b928dcbd191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '482b184716ab7e38398ccbfccac19b98') in 0.100632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.644122 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/1_01___Default_color.tga.png
+  artifactKey: Guid(9bb523ee879ad4c5e92b5b928dcbd191) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/1_01___Default_color.tga.png using Guid(9bb523ee879ad4c5e92b5b928dcbd191) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4d26eae50b2bc47b80c02f01dd418d2a') in 0.023143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 11.633870 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30559974558ee2706b8b9d7737aa6b5') in 2.685010 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 6.088610 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81c774b83a1aaf2f046d1b327ca015e') in 2.588595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1463
+========================================================================
+Received Import Request.
+  Time since last request: 24.806406 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa3bf6b5060d60a648ac60e5eb92c6e') in 1.860783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1463
+========================================================================
+Received Import Request.
+  Time since last request: 0.113075 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2376892bf461fcccd74e017d954ea8') in 2.138729 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1463
+========================================================================
+Received Import Request.
+  Time since last request: 2.934419 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9b3506439bb90cfd9640c361a43283') in 2.275692 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1463
+========================================================================
+Received Import Request.
+  Time since last request: 2.122918 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed9af92de8304696293b827d8ef6757') in 1.987297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1463
+========================================================================
+Received Import Request.
+  Time since last request: 5.286702 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx
+  artifactKey: Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/bath-day.fbx using Guid(142253cbda1f141e3934ef8c7979b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5405f58046198fcf3dee58e9039f2a40') in 2.444654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1462
+========================================================================
+Received Import Request.
+  Time since last request: 11.972233 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/1_wire_113098098_color.tga.png
+  artifactKey: Guid(d4f00f95ac50b41ef893f61709863f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day/source/1_wire_113098098_color.tga.png using Guid(d4f00f95ac50b41ef893f61709863f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a67642fab9847ddc5c73acd577353a1') in 0.056676 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 62.654701 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day.prefab
+  artifactKey: Guid(2b763189a8633451a8f5208410821bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day.prefab using Guid(2b763189a8633451a8f5208410821bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f102a66d3b11588083358393e8a32e') in 0.240651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2638
+========================================================================
+Received Import Request.
+  Time since last request: 0.648948 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day.prefab
+  artifactKey: Guid(2b763189a8633451a8f5208410821bc4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day.prefab using Guid(2b763189a8633451a8f5208410821bc4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e0908c5984e0d79006ed239c3e53fddb') in 0.054574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2631
+========================================================================
+Received Import Request.
+  Time since last request: 84.360255 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/textures/Jade_plant_specular.jpeg
+  artifactKey: Guid(9e7eeaedc93d44e58b536883c7a5e7cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/textures/Jade_plant_specular.jpeg using Guid(9e7eeaedc93d44e58b536883c7a5e7cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4683bc6eeef2eca5aa8307f158314044') in 0.104632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/source/Jade_plant_SF.zip
+  artifactKey: Guid(1467c142a8a3744e3bdfbd8640e21ddc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/source/Jade_plant_SF.zip using Guid(1467c142a8a3744e3bdfbd8640e21ddc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '21f3f01ec1135796f204cffcf34cac1f') in 0.005792 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant
+  artifactKey: Guid(e809516da6091423f974522c7c4e26cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant using Guid(e809516da6091423f974522c7c4e26cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b034ef0c2f9b763737348e8efa64c5f3') in 0.005059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/textures/Jade_plant_gloss.jpeg
+  artifactKey: Guid(f8df51009df37435db5d3580955ce6d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/textures/Jade_plant_gloss.jpeg using Guid(f8df51009df37435db5d3580955ce6d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '5bea2da5feb4ab8ddecfb10215a57538') in 0.016316 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/source
+  artifactKey: Guid(64d38d593c68549ec8b381ce8b25ccda) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/source using Guid(64d38d593c68549ec8b381ce8b25ccda) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '5e652a78b58e31e7bd8fbfb9d950d5c0') in 0.006035 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/textures
+  artifactKey: Guid(0ee481c3e9b8f44b590aac91ab0d10a1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/textures using Guid(0ee481c3e9b8f44b590aac91ab0d10a1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'ccdb066d27688ca294a019694cc68e7a') in 0.018060 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.383884 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant
+  artifactKey: Guid(e809516da6091423f974522c7c4e26cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant using Guid(e809516da6091423f974522c7c4e26cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170e17e1bc96238947083d0b7e674400') in 0.001776 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.181833 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/source/Jade_plant_SF.zip
+  artifactKey: Guid(1467c142a8a3744e3bdfbd8640e21ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/jade-plant/source/Jade_plant_SF.zip using Guid(1467c142a8a3744e3bdfbd8640e21ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be3a8dd9223b916fa318cbcf3d0c4a2') in 0.032277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 79.023458 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.mtl
+  artifactKey: Guid(b45fb2fbfcae14f14b7f98ad0d9631d8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.mtl using Guid(b45fb2fbfcae14f14b7f98ad0d9631d8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd89917973b7021da124ae1569215457d') in 0.070356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF
+  artifactKey: Guid(d9d7e526b092d44199e213771a69630c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF using Guid(d9d7e526b092d44199e213771a69630c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '6d28feb5ba6824d06c422ec1c84cd028') in 0.006185 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_gloss.jpg
+  artifactKey: Guid(7d19d6de8f8354e9cb6364f807c37c3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_gloss.jpg using Guid(7d19d6de8f8354e9cb6364f807c37c3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '394435b7eb992d96442e20755c1e2cef') in 0.022299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_specular.jpg
+  artifactKey: Guid(b5c92c2abc0294542aa9c1e852c5f653) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_specular.jpg using Guid(b5c92c2abc0294542aa9c1e852c5f653) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '2aed2793a4441385d8a0ab7a05870be3') in 0.092454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.822869 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF
+  artifactKey: Guid(d9d7e526b092d44199e213771a69630c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF using Guid(d9d7e526b092d44199e213771a69630c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0428be80f422f9f7146108dca35bd649') in 0.013206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.163787 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.obj
+  artifactKey: Guid(0c172694cf0bd42c3b586f0cbe974a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.obj using Guid(0c172694cf0bd42c3b586f0cbe974a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f50574bb75c199bd67a977dbaf3ed6') in 0.242470 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 53.755571 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.obj
+  artifactKey: Guid(0c172694cf0bd42c3b586f0cbe974a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.obj using Guid(0c172694cf0bd42c3b586f0cbe974a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26345256f2d0a2b12fd18936efa563b') in 0.228948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.112439 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.obj
+  artifactKey: Guid(0c172694cf0bd42c3b586f0cbe974a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.obj using Guid(0c172694cf0bd42c3b586f0cbe974a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f095c68ce90a05bc787c12431ceed4d5') in 0.089155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.825150 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant
+  artifactKey: Guid(c578c666aabe841fd92fdf4d897e6fb5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant using Guid(c578c666aabe841fd92fdf4d897e6fb5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '15193387033c905469dab995cc72ef59') in 1.152397 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant/Material.001.mat
+  artifactKey: Guid(270cdf2b04f35484fa7a35b5c83fafe7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant/Material.001.mat using Guid(270cdf2b04f35484fa7a35b5c83fafe7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '66fc85258a3c2e1131d705c6dcdad709') in 0.115271 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.905053 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant
+  artifactKey: Guid(c578c666aabe841fd92fdf4d897e6fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant using Guid(c578c666aabe841fd92fdf4d897e6fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '954285e7162598f9a415a5aab6f9994c') in 0.001264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 92.904139 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.obj
+  artifactKey: Guid(0c172694cf0bd42c3b586f0cbe974a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant_SF.obj using Guid(0c172694cf0bd42c3b586f0cbe974a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db805796673e491b82314ddfb27a6a9') in 0.187688 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.640179 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant/Material.001.mat
+  artifactKey: Guid(270cdf2b04f35484fa7a35b5c83fafe7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF/Jade_plant/Material.001.mat using Guid(270cdf2b04f35484fa7a35b5c83fafe7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'f60c6633188a90e17e337c2e0d897684') in 0.042763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.691282 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF.prefab
+  artifactKey: Guid(cdcca1ee19da54420bc9c33ff21892ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF.prefab using Guid(cdcca1ee19da54420bc9c33ff21892ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae153c4f9abcc416a0cdeed351945a68') in 0.166259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.759260 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF.prefab
+  artifactKey: Guid(cdcca1ee19da54420bc9c33ff21892ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Jade_plant_SF.prefab using Guid(cdcca1ee19da54420bc9c33ff21892ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '036235c5632b6d858ef9eb78eda6a069') in 0.062668 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 74.371529 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '37c22dd41134dae951105e28c81721d7') in 0.040309 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 176.951021 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd602888c72b3c6c2530adea8d376408d') in 0.069298 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 29.517278 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Delete.png
+  artifactKey: Guid(85f8bee1bf27748239fb5488c40a5e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Delete.png using Guid(85f8bee1bf27748239fb5488c40a5e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ac4dc9a6c53e06163c3251c0441e07') in 0.176308 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3

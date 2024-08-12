@@ -7,8 +7,6 @@
 			<method name="SetObjectToSpawn"/>
 			<method name="SetObjectToSpawn"/>
 			<method name="SetObjectToSpawn"/>
-			<method name="SetObjectToSpawn"/>
-			<method name="SetObjectToSpawn"/>
 			<method name="ShowHideDebugMenu"/>
 			<method name="ShowHideDebugPlane"/>
 			<method name="ShowHideModal"/>
@@ -54,30 +52,6 @@
 	</assembly>
 	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
 		<type fullname="UnityEngine.GameObject">
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
-			<method name="SetActive"/>
 			<method name="SetActive"/>
 			<method name="SetActive"/>
 			<method name="SetActive"/>

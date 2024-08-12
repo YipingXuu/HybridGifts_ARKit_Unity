@@ -1762,3 +1762,51 @@ Received Import Request.
 Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Delete.png using Guid(85f8bee1bf27748239fb5488c40a5e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ac4dc9a6c53e06163c3251c0441e07') in 0.176308 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 418.701357 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon_key.png
+  artifactKey: Guid(c34d78eeb2ed544409a17215c8fd7407) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon_key.png using Guid(c34d78eeb2ed544409a17215c8fd7407) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'dd3f10cd71ca9480312848dd7bd89e96') in 0.334265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.183596 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon_key.png
+  artifactKey: Guid(c34d78eeb2ed544409a17215c8fd7407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon_key.png using Guid(c34d78eeb2ed544409a17215c8fd7407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a951b26fca17837c1c51aeb9babf47cb') in 0.038813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.951416 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon_key.png
+  artifactKey: Guid(c34d78eeb2ed544409a17215c8fd7407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon_key.png using Guid(c34d78eeb2ed544409a17215c8fd7407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2323630eb565845fed8cc845790c33e0') in 0.093914 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 16.142216 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Create.png
+  artifactKey: Guid(7ec65d81ee53b4a76babde6fa254b6e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Create.png using Guid(7ec65d81ee53b4a76babde6fa254b6e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398d5fbe4bd6b2bc5bdef7903f114733') in 0.088034 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 32.290924 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'c96b4197cc0e927b3671bb82fa851cd8') in 0.062653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 11.365085 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(4755b35b590504809a7525fd2109c2e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '436c6443d36db7c26d1307d7d0968df2') in 0.046566 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

@@ -20,3 +20,8 @@ MonoBehaviour:
     m_Name: Succulent
     m_Entries:
     - {fileID: -6831329414088302235, guid: 23ea534a3d1674d1aafcd72e1416effa, type: 3}
+  - m_GuidLow: 5160243612683650914
+    m_GuidHigh: 4462905775022555022
+    m_Name: JadePlant
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 2ffc5d36bd7cd4feea6b65a8c7ce6f94, type: 3}

@@ -15,13 +15,13 @@ MonoBehaviour:
   m_GuidLow: 4847859973404621223
   m_GuidHigh: 3155657866174719107
   m_ReferenceObjects:
-  - m_GuidLow: 4703717230520558252
-    m_GuidHigh: 14599892833182348474
-    m_Name: Succulent
+  - m_GuidLow: 5548999111153994202
+    m_GuidHigh: 11996773438366121360
+    m_Name: Window
     m_Entries:
-    - {fileID: -6831329414088302235, guid: 23ea534a3d1674d1aafcd72e1416effa, type: 3}
-  - m_GuidLow: 5160243612683650914
-    m_GuidHigh: 4462905775022555022
-    m_Name: JadePlant
+    - {fileID: -6831329414088302235, guid: e9417258c7e2944088f1f51ad029e507, type: 3}
+  - m_GuidLow: 4849478644610683004
+    m_GuidHigh: 18213397924153674647
+    m_Name: Inside
     m_Entries:
-    - {fileID: -6831329414088302235, guid: 2ffc5d36bd7cd4feea6b65a8c7ce6f94, type: 3}
+    - {fileID: -6831329414088302235, guid: 98038f502ab8946ba9d681c75e6dbeab, type: 3}

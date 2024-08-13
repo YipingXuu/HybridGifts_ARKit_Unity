@@ -25,3 +25,8 @@ MonoBehaviour:
     m_Name: Inside
     m_Entries:
     - {fileID: -6831329414088302235, guid: 98038f502ab8946ba9d681c75e6dbeab, type: 3}
+  - m_GuidLow: 5054294111359686962
+    m_GuidHigh: 10064667513763104433
+    m_Name: night
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 62c87e48c84ea483dbf691f76c17855d, type: 3}

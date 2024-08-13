@@ -1227,7 +1227,7 @@ MonoBehaviour:
   m_CameraToFace: {fileID: 0}
   m_ObjectPrefabs:
   - {fileID: 8561962219711367127, guid: e899f40ede0744542aae2e98db9268a2, type: 3}
-  - {fileID: 1614297190303692569, guid: cdcca1ee19da54420bc9c33ff21892ac, type: 3}
+  - {fileID: 7691514029514428225, guid: 7d077a8aa56134b4aafb32310637ee9a, type: 3}
   - {fileID: 1090812157581615051, guid: 2e6d932e1d64543f99927b9eebbbd327, type: 3}
   - {fileID: 9142737560765368260, guid: 867f772c5ee96492692c71d32561e351, type: 3}
   m_SpawnVisualizationPrefab: {fileID: 0}

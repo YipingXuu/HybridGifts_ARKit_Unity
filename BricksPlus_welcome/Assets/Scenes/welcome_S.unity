@@ -1229,7 +1229,7 @@ MonoBehaviour:
   - {fileID: 8561962219711367127, guid: e899f40ede0744542aae2e98db9268a2, type: 3}
   - {fileID: 7691514029514428225, guid: 7d077a8aa56134b4aafb32310637ee9a, type: 3}
   - {fileID: 1090812157581615051, guid: 2e6d932e1d64543f99927b9eebbbd327, type: 3}
-  - {fileID: 1411851932795536759, guid: a64a086eba5ab4c47b3de92df2be0e53, type: 3}
+  - {fileID: 595135620424953742, guid: f652a8ae44e6d42cdb9aa8bba1571935, type: 3}
   m_SpawnVisualizationPrefab: {fileID: 0}
   m_SpawnOptionIndex: 0
   m_OnlySpawnInView: 1
@@ -7267,74 +7267,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dae86721c71ee42018bbec0181a4e52e, type: 3}
---- !u!1001 &4300028747013789974
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1411851932795536759, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_Name
-      value: Shriya@Twist Dance
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1791367735407173581, guid: a64a086eba5ab4c47b3de92df2be0e53,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: a64a086eba5ab4c47b3de92df2be0e53, type: 3}
 --- !u!1001 &5214591598045136834
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7630,4 +7562,3 @@ SceneRoots:
   - {fileID: 1323550134}
   - {fileID: 2099970469}
   - {fileID: 331264285}
-  - {fileID: 4300028747013789974}

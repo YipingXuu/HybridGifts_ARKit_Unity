@@ -1,0 +1,732 @@
+Unity Editor version:    2022.3.29f1 (8d510ca76d2b)
+Branch:                  2022.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.5 (Build 23F79)
+Darwin version:          23.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56856
+Successfully changed project path to: /Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome
+/Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8581598208] Host "[IP] 10.247.203.99 [Port] 0 [Flags] 2 [Guid] 2335426614 [EditorId] 2335426614 [Version] 1048832 [Id] OSXEditor(0,xuyipingdeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8581598208] Host "[IP] 10.247.203.99 [Port] 0 [Flags] 2 [Guid] 2335426614 [EditorId] 2335426614 [Version] 1048832 [Id] OSXEditor(0,xuyipingdeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 260.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.29f1 (8d510ca76d2b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56587
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.016243 seconds.
+- Loaded All Assemblies, in  0.920 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.608 seconds
+Domain Reload Profiling: 1529ms
+	BeginReloadAssembly (479ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (61ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (71ms)
+	LoadAllAssembliesAndSetupDomain (297ms)
+		LoadAssemblies (490ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (269ms)
+			TypeCache.Refresh (268ms)
+				TypeCache.ScanAssembly (251ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (609ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (547ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (344ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (154ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.796 seconds
+Refreshing native plugins compatible for Editor in 44.24 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.449 seconds
+Domain Reload Profiling: 4252ms
+	BeginReloadAssembly (853ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (19ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (89ms)
+	RebuildCommonClasses (103ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (206ms)
+	LoadAllAssembliesAndSetupDomain (1621ms)
+		LoadAssemblies (1611ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (442ms)
+			TypeCache.Refresh (399ms)
+				TypeCache.ScanAssembly (357ms)
+			ScanForSourceGeneratedMonoScriptInfo (25ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (1450ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1236ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (171ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (849ms)
+			ProcessInitializeOnLoadMethodAttributes (130ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.37 seconds
+Refreshing native plugins compatible for Editor in 2.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6867 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 138 unused Assets / (4.3 MB). Loaded Objects now: 7279.
+Memory consumption went from 266.3 MB to 262.0 MB.
+Total: 13.184833 ms (FindLiveObjects: 0.404875 ms CreateObjectMapping: 0.144292 ms MarkObjects: 8.796250 ms  DeleteObjects: 3.838500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 308633.662885 seconds.
+  path: Assets/Scenes/welcome_C.unity
+  artifactKey: Guid(b9676a76613d548768212bfa49ffda52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/welcome_C.unity using Guid(b9676a76613d548768212bfa49ffda52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8785dbc91d4897e2931da0a31a55f1a') in 0.001738 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1140.103342 seconds.
+  path: Assets/Scenes/welcome_R.unity
+  artifactKey: Guid(4755b35b590504809a7525fd2109c2e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/welcome_R.unity using Guid(4755b35b590504809a7525fd2109c2e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05450ef07c7706bae9d769bd6b9d089d') in 0.047405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 87.362383 seconds.
+  path: Assets/Scenes/welcome_S.unity
+  artifactKey: Guid(8046f2ab97a574385bfe2c1201efed70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/welcome_S.unity using Guid(8046f2ab97a574385bfe2c1201efed70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22d2411f86d4790ac539dae5c435d2f') in 0.001740 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 73.268397 seconds.
+  path: Assets/Scenes/welcome_C.unity
+  artifactKey: Guid(b9676a76613d548768212bfa49ffda52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/welcome_C.unity using Guid(b9676a76613d548768212bfa49ffda52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947698ea0ff347a98d28fd9327ef3e93') in 0.026386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.481590 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Asset.png
+  artifactKey: Guid(17d565bb4a7744b41b7e4dc7e3a09e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Asset.png using Guid(17d565bb4a7744b41b7e4dc7e3a09e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc4b7e359d82ecfbee1183ec338d9bf') in 1.038306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Rounded Cube.png
+  artifactKey: Guid(930e939e9def94ef69711892eaa9af81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Rounded Cube.png using Guid(930e939e9def94ef69711892eaa9af81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c499e2a4d5b2beb307f3894e7478e3') in 0.038826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-ScaleAxisGizmo.png
+  artifactKey: Guid(bd0fe3abc36404b2dbebd9ae74eb79c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-ScaleAxisGizmo.png using Guid(bd0fe3abc36404b2dbebd9ae74eb79c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf60b10bbcd79ed25b440bdb4e023171') in 0.015320 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Wedge.png
+  artifactKey: Guid(27d12ab07620b42e1b6f840310624d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Wedge.png using Guid(27d12ab07620b42e1b6f840310624d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94da0a50db1b21f40a5eda323d452340') in 0.013262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Checkmark.png
+  artifactKey: Guid(db3e7b7c8db355e499429545071a0321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Checkmark.png using Guid(db3e7b7c8db355e499429545071a0321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd2865d8e6dcfe31bdca624473e2553') in 0.022649 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Button - Rounded Highlight.png
+  artifactKey: Guid(c5adfe294554543868fc7cf60dded650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Button - Rounded Highlight.png using Guid(c5adfe294554543868fc7cf60dded650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f1f54eeb54f669995020ac15b35ed1') in 0.013521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-LiftAxisGizmo.png
+  artifactKey: Guid(7d7267d5f5b16410f885ec459e512806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-LiftAxisGizmo.png using Guid(7d7267d5f5b16410f885ec459e512806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1e98a69f4f7a7afe7f1060ebb5209e') in 0.019842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Pyramid.png
+  artifactKey: Guid(d80cabb7f46004842b09173491e74cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Pyramid.png using Guid(d80cabb7f46004842b09173491e74cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a947d31b9b48cbf4ac961a4a1da140c') in 0.015450 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-Hints.png
+  artifactKey: Guid(9acf48fe73f174b7d8b31772eb10e075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-Hints.png using Guid(9acf48fe73f174b7d8b31772eb10e075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea7ba720c96ad73016f99af2c982609') in 0.013802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-Gesture_TouchTwoFinger.png
+  artifactKey: Guid(bef7dbc4d02bf479fbc01527842a7201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-Gesture_TouchTwoFinger.png using Guid(bef7dbc4d02bf479fbc01527842a7201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b620945a9a1520e113069f182d9e6411') in 0.015292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-Cube_Lift.png
+  artifactKey: Guid(d156fc03d649f4bc99679bac977609a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-Cube_Lift.png using Guid(d156fc03d649f4bc99679bac977609a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b208c04348f04784de546344e48f897c') in 0.013231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Button - Rounded Square BG.png
+  artifactKey: Guid(46da8634de2114354be217373280f00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Button - Rounded Square BG.png using Guid(46da8634de2114354be217373280f00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4df61f0e0388fb8ccffd08e7f3999a3') in 0.010275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-SurfaceVisual.png
+  artifactKey: Guid(3a4b02f0d013240a6bf58a4ffc88d105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-SurfaceVisual.png using Guid(3a4b02f0d013240a6bf58a4ffc88d105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794c728de587d7bd50f798360592ad46') in 0.012518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Round Radius 4 Outline.png
+  artifactKey: Guid(b7bad1260586fa746a0b67e930892936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Round Radius 4 Outline.png using Guid(b7bad1260586fa746a0b67e930892936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea14652da65322f6d87f994d96d2f35') in 0.012249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Round Radius 4.png
+  artifactKey: Guid(affa059594145a843b81788037b4ee21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Round Radius 4.png using Guid(affa059594145a843b81788037b4ee21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96839cd541aebaa71ef4bb4828de016a') in 0.011314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-MobileDevice.png
+  artifactKey: Guid(77b98ffe803d34babb583459ea03da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-MobileDevice.png using Guid(77b98ffe803d34babb583459ea03da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d5bfbec0fa918ba8bb68edbaaf00ce') in 0.014429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/MixedCorners.png
+  artifactKey: Guid(811ff44a671c34f55ab743fc4f8c3319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/MixedCorners.png using Guid(811ff44a671c34f55ab743fc4f8c3319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad69ab0464a155785134859cfb85c059') in 0.011279 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-Cube_Mask.png
+  artifactKey: Guid(c5569763ab98341e98527947a9a50f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-Cube_Mask.png using Guid(c5569763ab98341e98527947a9a50f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc3059e60a25dd958bad86cce286e02') in 0.011732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/RoundRadius_10_Bottom.png
+  artifactKey: Guid(a818095c8b1764314a4e258bb61fcd45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/RoundRadius_10_Bottom.png using Guid(a818095c8b1764314a4e258bb61fcd45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1cf6379a09c5af8709d9e8075c5b2a1') in 0.012667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Circle_60x60_Horizontal.png
+  artifactKey: Guid(e45f8f823c093d941855bb23b53b9414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Circle_60x60_Horizontal.png using Guid(e45f8f823c093d941855bb23b53b9414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347259bd25e0d377c3a558bcf5c5e986') in 0.012154 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Torus.png
+  artifactKey: Guid(cc39c192440c8432582befdd623cb4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Torus.png using Guid(cc39c192440c8432582befdd623cb4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '828ffd9a59edbff6170b7db5f1f6ff19') in 0.014690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-Unity.png
+  artifactKey: Guid(8a45b30277e4e4bf0a2104b9870d433b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-Unity.png using Guid(8a45b30277e4e4bf0a2104b9870d433b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1958793095698f1b01b04eb9d0b0a11') in 0.012630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Debug Cube.png
+  artifactKey: Guid(0d77f64dcf23ba448b2a63ad6f4c50c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Icon - Object - Debug Cube.png using Guid(0d77f64dcf23ba448b2a63ad6f4c50c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f856775c25acc542c4497f674579ccc') in 0.013244 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Forward.png
+  artifactKey: Guid(f8ecc54972abacc46a93f671b0602139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/DemoSceneAssets/Sprites/Forward.png using Guid(f8ecc54972abacc46a93f671b0602139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb2b3c98f2258d21b879e9d229ab19f') in 0.019569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-DeleteStroke.png
+  artifactKey: Guid(8d991699eeb4f403c9eda28f96d7c6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-DeleteStroke.png using Guid(8d991699eeb4f403c9eda28f96d7c6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e578a4e09f0f394ea8cc90c8373528e1') in 0.011798 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000879 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-Cube_Rotate.png
+  artifactKey: Guid(23564d3378a9d4983988576f242089eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-Cube_Rotate.png using Guid(23564d3378a9d4983988576f242089eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa29b02410f381d6db16c2f2baa8ad23') in 0.010667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/MobileARTemplateAssets/UI/Sprites/Icon-Gesture_PinchClose.png
+  artifactKey: Guid(47884281ad09647bab3fde795dfa2032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/UI/Sprites/Icon-Gesture_PinchClose.png using Guid(47884281ad09647bab3fde795dfa2032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f20a53cfe67524f48b3ef073b727a4') in 0.010306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 112.295740 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Ce_nobg.png
+  artifactKey: Guid(6ff60faa673d641a6b1c64ec6d0cff1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Ce_nobg.png using Guid(6ff60faa673d641a6b1c64ec6d0cff1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee5b2fbe8aa579871876f355117c697') in 0.059499 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.364823 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Ce_nobg.png
+  artifactKey: Guid(6ff60faa673d641a6b1c64ec6d0cff1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Ce_nobg.png using Guid(6ff60faa673d641a6b1c64ec6d0cff1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034a553fa1bc3832f08434ce2ebc495c') in 0.012469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 163.034705 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx
+  artifactKey: Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx using Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dcb2bd16e30e5074d056880c6345813') in 1.541646 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 233
+========================================================================
+Received Import Request.
+  Time since last request: 43.255110 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Shriya_texture
+  artifactKey: Guid(c2b80d7e7b0c64624a98565a3a5b19c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Shriya_texture using Guid(c2b80d7e7b0c64624a98565a3a5b19c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e9d94a9b472b50d5754c092d1701e7') in 0.002787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.584902 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx
+  artifactKey: Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx using Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66fc745bb28e067d92d67adc6bb62634') in 0.673929 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 235
+========================================================================
+Received Import Request.
+  Time since last request: 19.129978 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx
+  artifactKey: Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx using Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7275b782a6e3714c7e3d7b95ebd5a33') in 0.370837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 235
+========================================================================
+Received Import Request.
+  Time since last request: 23.233936 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx
+  artifactKey: Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx using Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bdecb5bcf46d7c3b9f319d29ad88670') in 0.976476 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 244
+========================================================================
+Received Import Request.
+  Time since last request: 5.745203 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx
+  artifactKey: Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.fbx using Guid(07b5744a117c84257888a4d559cf76b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0996ceecf2a3987e4454cfdad3765d5') in 0.884064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 244
+========================================================================
+Received Import Request.
+  Time since last request: 29.470865 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce Animator Controller.controller
+  artifactKey: Guid(f4ab57e59fb8749b5a488e1041936f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce Animator Controller.controller using Guid(f4ab57e59fb8749b5a488e1041936f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef74c5174ae4f8ebde4e07fa63f0670f') in 0.034134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 34.477197 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce Animator Controller.controller
+  artifactKey: Guid(f4ab57e59fb8749b5a488e1041936f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce Animator Controller.controller using Guid(f4ab57e59fb8749b5a488e1041936f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934727fb4805a4ab7d68dad914054c19') in 0.007322 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 2.576768 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey_AnimatorController.controller
+  artifactKey: Guid(9dcc16791f73e4028a16cfb85e09f2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Rakey_AnimatorController.controller using Guid(9dcc16791f73e4028a16cfb85e09f2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45497ed2d4e1b87a907a024db3c19d45') in 0.008285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 21.603320 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.prefab
+  artifactKey: Guid(bf60ed6c50c4348b998c9d43855f5d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.prefab using Guid(bf60ed6c50c4348b998c9d43855f5d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e827fd527f916f6a5d642ea38f00619') in 0.210509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 457
+========================================================================
+Received Import Request.
+  Time since last request: 9.218110 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.prefab
+  artifactKey: Guid(bf60ed6c50c4348b998c9d43855f5d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.prefab using Guid(bf60ed6c50c4348b998c9d43855f5d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9045745cd0f1c24dd410a121971119b') in 0.241706 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 457
+========================================================================
+Received Import Request.
+  Time since last request: 333.199789 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/succulent.fbx
+  artifactKey: Guid(868d25b22faaa46338978deda1ba1da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/succulent.fbx using Guid(868d25b22faaa46338978deda1ba1da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01445d382463556dabb0308b112b6d49') in 0.976365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+[usbmuxd] Attached: 15 00008020-000335100104003A
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x31bbc7000 may have been prematurely finalized
+- Loaded All Assemblies, in  2.368 seconds
+Refreshing native plugins compatible for Editor in 3.69 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.RenderPipelineValidation..cctor () [0x0000d] in /Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome/Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/Scripts/MaterialPipelineHandler.cs:16 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:127)
+
+(Filename: /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs Line: 127)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.048 seconds
+Domain Reload Profiling: 4447ms
+	BeginReloadAssembly (532ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (50ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (251ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (1788ms)
+		LoadAssemblies (1799ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (99ms)
+			TypeCache.Refresh (58ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (38ms)
+	FinalizeReload (2048ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (701ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (512ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 2.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6716 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 101 unused Assets / (5.3 MB). Loaded Objects now: 7370.
+Memory consumption went from 255.3 MB to 250.0 MB.
+Total: 10.090833 ms (FindLiveObjects: 0.604041 ms CreateObjectMapping: 0.133666 ms MarkObjects: 6.629417 ms  DeleteObjects: 2.722833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7370.
+Memory consumption went from 148.5 MB to 144.3 MB.
+Total: 30.645833 ms (FindLiveObjects: 0.362083 ms CreateObjectMapping: 0.145083 ms MarkObjects: 26.940875 ms  DeleteObjects: 3.197125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 344.091240 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/PiranhaPlant_texture
+  artifactKey: Guid(07437ab51bf3f4201b92c86b0ba90d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/PiranhaPlant_texture using Guid(07437ab51bf3f4201b92c86b0ba90d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12e8221e81402aaf1f6c6fa9fae3f90') in 0.061887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.327115 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/PiranhaPlant_Animator Controller.controller
+  artifactKey: Guid(c36eb846b2acb4bd3995f5ee13a3b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/PiranhaPlant_Animator Controller.controller using Guid(c36eb846b2acb4bd3995f5ee13a3b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9010b1dd072c9202c1bba56a0a95f7a0') in 0.107370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 5.518177 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Animation_PiranhaPlant_Sketchfab_FBX_origin.fbx
+  artifactKey: Guid(6fa7c20d5bf5e413181b7a5fefbef49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Animation_PiranhaPlant_Sketchfab_FBX_origin.fbx using Guid(6fa7c20d5bf5e413181b7a5fefbef49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7497d96cd275fb0d438c79ee2ecdd223') in 1.048366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 172
+========================================================================
+Received Import Request.
+  Time since last request: 21.372387 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing 1.prefab
+  artifactKey: Guid(6f917c868be4e4e9cac2c96dff2bbe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing 1.prefab using Guid(6f917c868be4e4e9cac2c96dff2bbe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa33e46f5a5fd6e063076d01905a0a0') in 0.186446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 449
+========================================================================
+Received Import Request.
+  Time since last request: 8.537789 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.prefab
+  artifactKey: Guid(6f917c868be4e4e9cac2c96dff2bbe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.prefab using Guid(6f917c868be4e4e9cac2c96dff2bbe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e57c710775dd76e421b88d518f5b962') in 0.093984 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 449
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7455.
+Memory consumption went from 148.6 MB to 144.4 MB.
+Total: 48.277209 ms (FindLiveObjects: 4.894959 ms CreateObjectMapping: 0.362041 ms MarkObjects: 39.335750 ms  DeleteObjects: 3.683750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 

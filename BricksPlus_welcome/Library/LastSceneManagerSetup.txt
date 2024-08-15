@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/welcome_C.unity
+- path: Assets/Scenes/welcome_Ra.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -644,3 +644,89 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7370.
+Memory consumption went from 148.5 MB to 144.3 MB.
+Total: 30.645833 ms (FindLiveObjects: 0.362083 ms CreateObjectMapping: 0.145083 ms MarkObjects: 26.940875 ms  DeleteObjects: 3.197125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 344.091240 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/PiranhaPlant_texture
+  artifactKey: Guid(07437ab51bf3f4201b92c86b0ba90d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/PiranhaPlant_texture using Guid(07437ab51bf3f4201b92c86b0ba90d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12e8221e81402aaf1f6c6fa9fae3f90') in 0.061887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.327115 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/PiranhaPlant_Animator Controller.controller
+  artifactKey: Guid(c36eb846b2acb4bd3995f5ee13a3b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/PiranhaPlant_Animator Controller.controller using Guid(c36eb846b2acb4bd3995f5ee13a3b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9010b1dd072c9202c1bba56a0a95f7a0') in 0.107370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 5.518177 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Animation_PiranhaPlant_Sketchfab_FBX_origin.fbx
+  artifactKey: Guid(6fa7c20d5bf5e413181b7a5fefbef49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Animation_PiranhaPlant_Sketchfab_FBX_origin.fbx using Guid(6fa7c20d5bf5e413181b7a5fefbef49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7497d96cd275fb0d438c79ee2ecdd223') in 1.048366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 172
+========================================================================
+Received Import Request.
+  Time since last request: 21.372387 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing 1.prefab
+  artifactKey: Guid(6f917c868be4e4e9cac2c96dff2bbe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing 1.prefab using Guid(6f917c868be4e4e9cac2c96dff2bbe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa33e46f5a5fd6e063076d01905a0a0') in 0.186446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 449
+========================================================================
+Received Import Request.
+  Time since last request: 8.537789 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.prefab
+  artifactKey: Guid(6f917c868be4e4e9cac2c96dff2bbe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ce@Silly Dancing.prefab using Guid(6f917c868be4e4e9cac2c96dff2bbe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e57c710775dd76e421b88d518f5b962') in 0.093984 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 449
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7455.
+Memory consumption went from 148.6 MB to 144.4 MB.
+Total: 48.277209 ms (FindLiveObjects: 4.894959 ms CreateObjectMapping: 0.362041 ms MarkObjects: 39.335750 ms  DeleteObjects: 3.683750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 

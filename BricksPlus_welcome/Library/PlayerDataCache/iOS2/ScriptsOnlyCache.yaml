@@ -384,7 +384,7 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
     methodName: ResetDebugManager
   sceneClasses:
-    Assets/Scenes/welcome_S.unity:
+    Assets/Scenes/welcome_C.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -3460,5 +3460,5 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   platform: 9
   scenePathNames:
-  - Assets/Scenes/welcome_S.unity
+  - Assets/Scenes/welcome_C.unity
   playerPath: /Users/xuyiping/Downloads/Build_welcome

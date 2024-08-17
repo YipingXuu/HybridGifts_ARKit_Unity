@@ -40,3 +40,8 @@ MonoBehaviour:
     m_Name: test
     m_Entries:
     - {fileID: -6831329414088302235, guid: 4a180857ef06849f7854e371cb937c89, type: 3}
+  - m_GuidLow: 5351253121744713725
+    m_GuidHigh: 6146588840145563540
+    m_Name: LaceLeaf
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 6c981e975328a4d559f0065466f88f69, type: 3}

@@ -35,3 +35,8 @@ MonoBehaviour:
     m_Name: Flower
     m_Entries:
     - {fileID: -6831329414088302235, guid: 533176a547ab24dbe89347e565e1ff6b, type: 3}
+  - m_GuidLow: 5305377974467999135
+    m_GuidHigh: 11857761302448840334
+    m_Name: test
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 4a180857ef06849f7854e371cb937c89, type: 3}

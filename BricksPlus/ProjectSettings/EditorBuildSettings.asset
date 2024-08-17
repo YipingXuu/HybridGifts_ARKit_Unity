@@ -188,9 +188,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/1HybridGifts/Object_Tracking_C.unity
     guid: 2690f1a25e9f74a9883b94ff5c8af5cb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/1HybridGifts/Object_Tracking_Ra.unity
     guid: 856a7dffbb9b84a4d85546e2ce1c308c
+  - enabled: 1
+    path: Assets/Scenes/1HybridGifts/Object_Tracking_W.unity
+    guid: 3252beb7ca6c448eaa6aed1e673578f6
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c52d3bb36b4c86f47af54ab9c7a02589,
       type: 2}

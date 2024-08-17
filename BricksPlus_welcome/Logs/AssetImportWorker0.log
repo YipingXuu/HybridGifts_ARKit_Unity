@@ -22,7 +22,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59557
+64813
 Successfully changed project path to: /Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome
 /Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -56,12 +56,12 @@ Successfully changed project path to: /Users/xuyiping/Unity_Project/HybridGifts_
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [8581598208] Host "[IP] 10.247.203.99 [Port] 0 [Flags] 2 [Guid] 1854536464 [EditorId] 1854536464 [Version] 1048832 [Id] OSXEditor(0,xuyipingdeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [8581598208] Host "[IP] 10.247.203.99 [Port] 0 [Flags] 2 [Guid] 1461918595 [EditorId] 1461918595 [Version] 1048832 [Id] OSXEditor(0,xuyipingdeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [8581598208] Host "[IP] 10.247.203.99 [Port] 0 [Flags] 2 [Guid] 1854536464 [EditorId] 1854536464 [Version] 1048832 [Id] OSXEditor(0,xuyipingdeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [8581598208] Host "[IP] 10.247.203.99 [Port] 0 [Flags] 2 [Guid] 1461918595 [EditorId] 1461918595 [Version] 1048832 [Id] OSXEditor(0,xuyipingdeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
-Refreshing native plugins compatible for Editor in 24.10 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 23.35 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.29f1 (8d510ca76d2b)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -76,49 +76,50 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56294
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56113
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Registered in 0.006094 seconds.
-- Loaded All Assemblies, in  0.386 seconds
+Registered in 0.004678 seconds.
+- Loaded All Assemblies, in  0.390 seconds
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
 Native extension for iOS target not found
+[usbmuxd] Attached: 19 00008020-000335100104003A
 Native extension for OSXStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.360 seconds
-Domain Reload Profiling: 745ms
+- Finished resetting the current domain, in  0.374 seconds
+Domain Reload Profiling: 765ms
 	BeginReloadAssembly (125ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (37ms)
+	RebuildCommonClasses (43ms)
 	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (57ms)
-	LoadAllAssembliesAndSetupDomain (155ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
 		LoadAssemblies (125ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (151ms)
-			TypeCache.Refresh (150ms)
-				TypeCache.ScanAssembly (134ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (138ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (0ms)
-	FinalizeReload (360ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (375ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (308ms)
+		SetupLoadedEditorAssemblies (318ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (134ms)
+			InitializePlatformSupportModulesInManaged (119ms)
 			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (128ms)
-			ProcessInitializeOnLoadMethodAttributes (38ms)
+			ProcessInitializeOnLoadAttributes (138ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -126,8 +127,8 @@ Domain Reload Profiling: 745ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.817 seconds
-Refreshing native plugins compatible for Editor in 7.11 ms, found 3 plugins.
+- Loaded All Assemblies, in  1.340 seconds
+Refreshing native plugins compatible for Editor in 3.16 ms, found 3 plugins.
 Native extension for iOS target not found
 Native extension for OSXStandalone target not found
 Package Manager log level set to [2]
@@ -144,48 +145,48 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  0.921 seconds
-Domain Reload Profiling: 1743ms
-	BeginReloadAssembly (116ms)
+- Finished resetting the current domain, in  1.295 seconds
+Domain Reload Profiling: 2676ms
+	BeginReloadAssembly (290ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
+		DisableScriptedObjects (7ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (26ms)
-	RebuildCommonClasses (35ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (33ms)
-	LoadAllAssembliesAndSetupDomain (625ms)
-		LoadAssemblies (384ms)
+		CreateAndSetChildDomain (68ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (948ms)
+		LoadAssemblies (541ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (287ms)
-			TypeCache.Refresh (242ms)
-				TypeCache.ScanAssembly (202ms)
-			ScanForSourceGeneratedMonoScriptInfo (28ms)
-			ResolveRequiredComponents (16ms)
-	FinalizeReload (921ms)
+		AnalyzeDomain (465ms)
+			TypeCache.Refresh (388ms)
+				TypeCache.ScanAssembly (318ms)
+			ScanForSourceGeneratedMonoScriptInfo (49ms)
+			ResolveRequiredComponents (26ms)
+	FinalizeReload (1296ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (742ms)
+		SetupLoadedEditorAssemblies (1039ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (20ms)
-			SetLoadedEditorAssemblies (4ms)
+			InitializePlatformSupportModulesInManaged (32ms)
+			SetLoadedEditorAssemblies (6ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (79ms)
-			ProcessInitializeOnLoadAttributes (573ms)
-			ProcessInitializeOnLoadMethodAttributes (66ms)
+			BeforeProcessingInitializeOnLoad (132ms)
+			ProcessInitializeOnLoadAttributes (784ms)
+			ProcessInitializeOnLoadMethodAttributes (84ms)
 			AfterProcessingInitializeOnLoad (1ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (3ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
 Launching external process: /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.34 seconds
-Refreshing native plugins compatible for Editor in 2.43 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.33 seconds
+Refreshing native plugins compatible for Editor in 3.96 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 6868 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 138 unused Assets / (4.3 MB). Loaded Objects now: 7280.
-Memory consumption went from 266.8 MB to 262.5 MB.
-Total: 11.905542 ms (FindLiveObjects: 1.420209 ms CreateObjectMapping: 1.595916 ms MarkObjects: 6.290292 ms  DeleteObjects: 2.597833 ms)
+Unloading 138 unused Assets / (4.4 MB). Loaded Objects now: 7280.
+Memory consumption went from 267.0 MB to 262.6 MB.
+Total: 41.634125 ms (FindLiveObjects: 5.689542 ms CreateObjectMapping: 1.119083 ms MarkObjects: 30.292458 ms  DeleteObjects: 4.532000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -202,232 +203,338 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 315021.869245 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/R_Avatar
-  artifactKey: Guid(f8a3338e2991c44098f9648c2c824e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/R_Avatar using Guid(f8a3338e2991c44098f9648c2c824e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00040c978c58dddf0d3491110a62a076') in 0.003382 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 16.150579 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/S_avatar
-  artifactKey: Guid(cde4cb5ae3c54430384103956456083f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/S_avatar using Guid(cde4cb5ae3c54430384103956456083f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5464758e73ec63b2adab3c39ef1d2bd') in 0.008084 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 4.036557 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Shriya@Twist Dance.prefab
-  artifactKey: Guid(f652a8ae44e6d42cdb9aa8bba1571935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Shriya@Twist Dance.prefab using Guid(f652a8ae44e6d42cdb9aa8bba1571935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e9ad68d7dcbe20ee96181d406f7004') in 0.369641 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 450
-========================================================================
-Received Import Request.
-  Time since last request: 12.203880 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/R_avatar
-  artifactKey: Guid(f8a3338e2991c44098f9648c2c824e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/R_avatar using Guid(f8a3338e2991c44098f9648c2c824e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb45e6c1b49c90a5356c9a45e5e7e80f') in 0.002378 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 12.317899 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/C_avatar
-  artifactKey: Guid(1dd1247217a324361a7659cc9b97922b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/C_avatar using Guid(1dd1247217a324361a7659cc9b97922b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e5a6051eb9c5751eed5e203fdfd76f') in 0.000721 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 16.136988 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Y_avatar
-  artifactKey: Guid(a9530c6aab1034167964dbf0611d1c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Y_avatar using Guid(a9530c6aab1034167964dbf0611d1c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77195ba99d709f6caa5dc8c19d61a8b3') in 0.001339 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 35.818194 seconds.
-  path: Assets/Scenes/welcome_S 1.unity
-  artifactKey: Guid(2c4ce7826b85b4d898f1c6b7090b8a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/welcome_S 1.unity using Guid(2c4ce7826b85b4d898f1c6b7090b8a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de8af7bd5cb380e8509eb277899ae8b') in 0.002386 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 8.799430 seconds.
-  path: Assets/Scenes/welcome_Ra.unity
-  artifactKey: Guid(2c4ce7826b85b4d898f1c6b7090b8a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/welcome_Ra.unity using Guid(2c4ce7826b85b4d898f1c6b7090b8a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b8af4c31d8eac0a7f8ea0ba50a7d61') in 0.000478 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 208.105179 seconds.
-  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Ra_nobg.png
-  artifactKey: Guid(9986199f494194ec089c0dd90f441137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Ra_nobg.png using Guid(9986199f494194ec089c0dd90f441137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10dbb83a0246a69238fdc47c20680879') in 0.078560 seconds
+  Time since last request: 397728.176115 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/W_nobg.png
+  artifactKey: Guid(824713b424b3b4aa7ab6877caa0bf8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/W_nobg.png using Guid(824713b424b3b4aa7ab6877caa0bf8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f649398d37f75716088b32854a3f8c75') in 0.295021 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 5.718096 seconds.
-  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Ra_nobg.png
-  artifactKey: Guid(9986199f494194ec089c0dd90f441137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/Ra_nobg.png using Guid(9986199f494194ec089c0dd90f441137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103b697db7d1e8b35b81dad57ca2a203') in 0.072895 seconds
+  Time since last request: 4.238484 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/W_nobg.png
+  artifactKey: Guid(824713b424b3b4aa7ab6877caa0bf8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.4/AR Starter Assets/ARDemoSceneAssets/Sprites/W_nobg.png using Guid(824713b424b3b4aa7ab6877caa0bf8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d9c8e439c60ace3ce03c160d2d37bd8') in 0.120316 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 36.222953 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx
-  artifactKey: Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx using Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6136d348eba59dcb7bf1d4a48c6969c9') in 0.278215 seconds
+  Time since last request: 61.742049 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ra_avatar
+  artifactKey: Guid(3ac08c1fef39642bc9a7ad98cd9e2b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ra_avatar using Guid(3ac08c1fef39642bc9a7ad98cd9e2b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f763a4a5b2d3047e00a29a8cdcd43b') in 0.011832 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 229
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 15.325613 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx
-  artifactKey: Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx using Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9bcfc4ab8f536296e2357e901ab280e') in 0.232356 seconds
+  Time since last request: 17.242730 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx
+  artifactKey: Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx using Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c9ffa98add822151174f8add29c4dd') in 0.492624 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 237
+Number of asset objects unloaded after import = 221
 ========================================================================
 Received Import Request.
-  Time since last request: 3.608984 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx
-  artifactKey: Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx using Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd593acd51422e8c041601de9f69a838') in 0.179204 seconds
+  Time since last request: 5.312515 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx
+  artifactKey: Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx using Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784f2c5cf93e67fed033eedd69954a00') in 0.223426 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 237
+Number of asset objects unloaded after import = 223
 ========================================================================
 Received Import Request.
-  Time since last request: 7.086552 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx
-  artifactKey: Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx using Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5587f9976b26d456475a8175f3253c8') in 0.202506 seconds
+  Time since last request: 6.060696 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx
+  artifactKey: Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx using Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cd1e89eee448349bfc169f23dbc7730') in 0.235886 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 239
+Number of asset objects unloaded after import = 223
 ========================================================================
 Received Import Request.
-  Time since last request: 7.148614 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx
-  artifactKey: Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.fbx using Guid(98531fac2e13e4978abd6c643fb0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da05b00121abea12320a1ebde34a16f') in 0.234541 seconds
+  Time since last request: 16.115563 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx
+  artifactKey: Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx using Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7661a5800e64571aaf5aca7fc965e6ca') in 0.213906 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 239
+Number of asset objects unloaded after import = 230
 ========================================================================
 Received Import Request.
-  Time since last request: 37.904937 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/S_avatar/Shriya@Twist Dance_origin.fbx
-  artifactKey: Guid(af9c276cd16044c52aa1a28fb54b1045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/S_avatar/Shriya@Twist Dance_origin.fbx using Guid(af9c276cd16044c52aa1a28fb54b1045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56faac777f75e8b1ab0678c15bd1621c') in 0.236227 seconds
+  Time since last request: 6.287578 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx
+  artifactKey: Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.fbx using Guid(2ffb1f80f0ff845b7b20d395f9673604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128b3821f3e0f88a89b761c79d16060e') in 0.388919 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 245
+Number of asset objects unloaded after import = 230
 ========================================================================
 Received Import Request.
-  Time since last request: 19.370054 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ra Animator Controller.controller
-  artifactKey: Guid(7988e22f7b8e24a25a880acc2419f850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ra Animator Controller.controller using Guid(7988e22f7b8e24a25a880acc2419f850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a8bd9e48aa084ff02bc482cea97d4d7') in 0.024145 seconds
+  Time since last request: 42.753739 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/W Animator Controller.controller
+  artifactKey: Guid(c64447a608cc346ae92b58cd2c69931e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/W Animator Controller.controller using Guid(c64447a608cc346ae92b58cd2c69931e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46976e36d94fe463f9ba93b09975407') in 0.025247 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 11.406635 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Ra Animator Controller.controller
-  artifactKey: Guid(7988e22f7b8e24a25a880acc2419f850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Ra Animator Controller.controller using Guid(7988e22f7b8e24a25a880acc2419f850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688972db211fd0aa66abe54f1bf89ee7') in 0.037492 seconds
+  Time since last request: 53.381286 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.prefab
+  artifactKey: Guid(a5b7f856a53c04252985d90f53b29ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/W@Bboy Hip Hop Move.prefab using Guid(a5b7f856a53c04252985d90f53b29ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a11cc4f61670dbcffe30c04dfef42e9') in 0.106580 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 4
+Number of asset objects unloaded after import = 432
 ========================================================================
 Received Import Request.
-  Time since last request: 10.675592 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.prefab
-  artifactKey: Guid(862e86e1ef20943ec87b1abb865cab79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Avatar/Radikha@Samba Dancing.prefab using Guid(862e86e1ef20943ec87b1abb865cab79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ead03e8e4011104863b511c38c1c17a') in 0.098570 seconds
+  Time since last request: 122.689599 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Wade_Model_Antherium.fbx
+  artifactKey: Guid(2c670f7cd5f1943558455443b582eda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Wade_Model_Antherium.fbx using Guid(2c670f7cd5f1943558455443b582eda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98dba671b16328961007d90f21d97e1') in 0.155663 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 441
+Number of asset objects unloaded after import = 74
 ========================================================================
 Received Import Request.
-  Time since last request: 490.114121 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day.prefab
-  artifactKey: Guid(2b763189a8633451a8f5208410821bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/bath-day.prefab using Guid(2b763189a8633451a8f5208410821bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f27f6ec1cff3c53a48e791d3a7f0688') in 0.035228 seconds
+  Time since last request: 22.640308 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Antherium
+  artifactKey: Guid(dfd087e6c14fc44f9a2989cf833cfe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Antherium using Guid(dfd087e6c14fc44f9a2989cf833cfe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6034471916c6b428b20d782924b161ad') in 0.011978 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.424837 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Antherium/antherium
+  artifactKey: Guid(74e9a36a4557e4cefa35fcec85ee1925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Antherium/antherium using Guid(74e9a36a4557e4cefa35fcec85ee1925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a426b507b163435a80fd9f7bf1a46a') in 0.001945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.168721 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25a539fe11d3e1503adb45fcce5365f') in 0.200462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 230.287367 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium
+  artifactKey: Guid(dfd087e6c14fc44f9a2989cf833cfe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium using Guid(dfd087e6c14fc44f9a2989cf833cfe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcae27d9924e25535e4e4c033400aa70') in 0.011713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 21.936383 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c660ec3337c84f8a1157d22ece3126c') in 0.186673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 6.111547 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3c7b72457e61bf5d3da94e6e31e0d7') in 0.083406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 3.884421 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f4de9e5a32beb4ccc42b1705900073b') in 0.069123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 4.626867 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d342c825f0b377539dbec93f9cbf38') in 0.073031 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 12.626601 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c23ed5ad971783cfa1c7c987326b9d') in 0.069502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 11.625067 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e8a901a52d446da462bac30b0cc85d') in 0.068590 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 5.927650 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d15adecc99a026dd26861aa6b5cbb48') in 0.066826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 11.390901 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce60509a6d5abbd26505f4bdde8b4cc') in 0.126038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 4.258350 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6387e6d10c4621c2df4f13a364f7b55f') in 0.062416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 13.247264 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a621c95fa4e61030a2309e047517c5') in 0.072651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 75
+========================================================================
+Received Import Request.
+  Time since last request: 16.159539 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26276c3959635e10281a305dcb279e67') in 0.137578 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 16.780259 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b173e9c0287b0f57b9d5981f84794f76') in 0.117744 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 23.305556 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1520b3324c0b8608b72e160481eceac3') in 0.102174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 0.088163 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx
+  artifactKey: Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.fbx using Guid(a15513a2cf89c4e3991de58825df87a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c4111c4b655da2eb81d1b86d0681e8') in 0.081119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 24.727696 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/FlowerStalk_Base_color.png
+  artifactKey: Guid(9ab344d3712a44d579cb87e79221a3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/FlowerStalk_Base_color.png using Guid(9ab344d3712a44d579cb87e79221a3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f069347ed1cc74045ede7a8b335b37c') in 0.123549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.865973 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/FlowerStalk_Height.png
+  artifactKey: Guid(cebfffb5c09fb4e61896b7838a01c852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/FlowerStalk_Height.png using Guid(cebfffb5c09fb4e61896b7838a01c852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af737c0c9b37a1b2d621e8b79a86cb2f') in 0.006007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 25.926360 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Materials
+  artifactKey: Guid(340ca8b754b8c462e826c16dcb3d9173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Materials using Guid(340ca8b754b8c462e826c16dcb3d9173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a7288374cdb4fe3f76c3a7b4fe729b') in 0.004693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 14.419177 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Materials/Wade_Model_Antherium.fbx
+  artifactKey: Guid(085b4407ad87042de9e1bba5567d2d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Materials/Wade_Model_Antherium.fbx using Guid(085b4407ad87042de9e1bba5567d2d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ee129ca3a7d37be5e162a53a2661a8') in 0.150837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 12.721018 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Materials/Wade_Model_Antherium.fbx
+  artifactKey: Guid(085b4407ad87042de9e1bba5567d2d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Materials/Wade_Model_Antherium.fbx using Guid(085b4407ad87042de9e1bba5567d2d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b68310201dbdddd30bbc17e8734dfc') in 0.091345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 74
+========================================================================
+Received Import Request.
+  Time since last request: 146.144315 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab
+  artifactKey: Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab using Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e0d4b5c1ac8df092ddc226e98ddc8b9') in 0.080462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 133
 ========================================================================
 Received Prepare
-Begin MonoManager ReloadAssembly
-Thread 0x3348cf000 may have been prematurely finalized
-- Loaded All Assemblies, in  0.695 seconds
-Refreshing native plugins compatible for Editor in 3.76 ms, found 3 plugins.
-Native extension for iOS target not found
-Native extension for OSXStandalone target not found
-System.NullReferenceException: Object reference not set to an instance of an object
-  at UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.RenderPipelineValidation..cctor () [0x0000d] in /Users/xuyiping/Unity_Project/HybridGifts_ARKit_Unity/BricksPlus_welcome/Assets/Samples/XR Interaction Toolkit/3.0.4/Starter Assets/Scripts/MaterialPipelineHandler.cs:16 
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:127)
-
-(Filename: /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs Line: 127)
-
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  2.479 seconds
-Domain Reload Profiling: 3176ms
-	BeginReloadAssembly (309ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (23ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (136ms)
-	RebuildCommonClasses (39ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (29ms)
-	LoadAllAssembliesAndSetupDomain (303ms)
-		LoadAssemblies (343ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (56ms)
-			TypeCache.Refresh (20ms)
-				TypeCache.ScanAssembly (0ms)
-			ScanForSourceGeneratedMonoScriptInfo (1ms)
-			ResolveRequiredComponents (34ms)
-	FinalizeReload (2480ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1123ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (164ms)
-			SetLoadedEditorAssemblies (5ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (92ms)
-			ProcessInitializeOnLoadAttributes (766ms)
-			ProcessInitializeOnLoadMethodAttributes (94ms)
-			AfterProcessingInitializeOnLoad (1ms)
-			EditorAssembliesLoaded (1ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (14ms)
-Refreshing native plugins compatible for Editor in 5.03 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.56 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6715 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 101 unused Assets / (5.3 MB). Loaded Objects now: 7370.
-Memory consumption went from 256.0 MB to 250.7 MB.
-Total: 45.971084 ms (FindLiveObjects: 0.884791 ms CreateObjectMapping: 0.212959 ms MarkObjects: 34.715750 ms  DeleteObjects: 10.156000 ms)
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.4 MB). Loaded Objects now: 7415.
+Memory consumption went from 141.3 MB to 136.9 MB.
+Total: 108.065708 ms (FindLiveObjects: 8.306333 ms CreateObjectMapping: 0.367208 ms MarkObjects: 85.988084 ms  DeleteObjects: 13.403042 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.3 MB). Loaded Objects now: 7415.
+Memory consumption went from 139.3 MB to 134.9 MB.
+Total: 50.818833 ms (FindLiveObjects: 1.452042 ms CreateObjectMapping: 0.209166 ms MarkObjects: 46.889042 ms  DeleteObjects: 2.268084 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7415.
+Memory consumption went from 137.2 MB to 132.9 MB.
+Total: 18.283750 ms (FindLiveObjects: 0.714375 ms CreateObjectMapping: 0.160958 ms MarkObjects: 15.025083 ms  DeleteObjects: 2.382875 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -445,84 +552,36 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 30.732195 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Flower.fbx
-  artifactKey: Guid(1809ad94c7b544e649233d1183e0e830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Flower.fbx using Guid(1809ad94c7b544e649233d1183e0e830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8abc8a6dda38752b7597dfd14e29669a') in 0.850930 seconds
+  Time since last request: 634.791412 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab
+  artifactKey: Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab using Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33950bba659425b50fd2db12e67f779c') in 0.142274 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 27
+Number of asset objects unloaded after import = 133
 ========================================================================
 Received Import Request.
-  Time since last request: 41.898250 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Plants/Flower.prefab
-  artifactKey: Guid(3e2eb1a950d9d42a08d53d0383df1c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/Flower.prefab using Guid(3e2eb1a950d9d42a08d53d0383df1c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59d8ecb02f8d7ad09a7a9b15f31be95') in 0.153790 seconds
+  Time since last request: 2.081764 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab
+  artifactKey: Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab using Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132a883bad7efff86780e0e6992bf99f') in 0.013752 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 16
+Number of asset objects unloaded after import = 133
 ========================================================================
 Received Import Request.
-  Time since last request: 249.128765 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Plants/nezabudki.fbx
-  artifactKey: Guid(b8e1d44e14a1644b2993b9610d23d428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/nezabudki.fbx using Guid(b8e1d44e14a1644b2993b9610d23d428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0def1f2bc357ba66892504c1ab21d2a5') in 0.268134 seconds
+  Time since last request: 4.369401 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab
+  artifactKey: Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab using Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97571f2ff283d7cdc5c02c07968ee3f1') in 0.061461 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 36
-========================================================================
-Received Import Request.
-  Time since last request: 149.986663 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Plants/flower.fbx
-  artifactKey: Guid(1809ad94c7b544e649233d1183e0e830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/flower.fbx using Guid(1809ad94c7b544e649233d1183e0e830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe5bcfa29cf134311b69e36bd1144509') in 0.187096 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 36
-========================================================================
-Received Import Request.
-  Time since last request: 89.924161 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Plants/flower.prefab
-  artifactKey: Guid(3e2eb1a950d9d42a08d53d0383df1c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/flower.prefab using Guid(3e2eb1a950d9d42a08d53d0383df1c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d5340fee059d568e808633622accff') in 0.093207 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 60
+Number of asset objects unloaded after import = 133
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 10.02 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.71 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7455.
-Memory consumption went from 151.1 MB to 146.9 MB.
-Total: 57.249208 ms (FindLiveObjects: 3.238916 ms CreateObjectMapping: 0.381458 ms MarkObjects: 50.671167 ms  DeleteObjects: 2.956542 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-[usbmuxd] Attached: 16 00008020-000335100104003A
-========================================================================
-Received Import Request.
-  Time since last request: 361.327977 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Plants/flower.prefab
-  artifactKey: Guid(3e2eb1a950d9d42a08d53d0383df1c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/flower.prefab using Guid(3e2eb1a950d9d42a08d53d0383df1c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e59ec00b883c79e93275689f7075901') in 0.661359 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 60
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.85 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7455.
-Memory consumption went from 149.1 MB to 144.9 MB.
-Total: 46.666125 ms (FindLiveObjects: 6.397167 ms CreateObjectMapping: 0.519667 ms MarkObjects: 36.168791 ms  DeleteObjects: 3.579209 ms)
+Unloading 41 unused Assets / (4.3 MB). Loaded Objects now: 7415.
+Memory consumption went from 135.3 MB to 131.0 MB.
+Total: 32.915209 ms (FindLiveObjects: 0.575250 ms CreateObjectMapping: 0.154708 ms MarkObjects: 29.717542 ms  DeleteObjects: 2.467167 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -540,20 +599,67 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 184.504032 seconds.
-  path: Assets/MobileARTemplateAssets/Prefabs/Plants/flower.prefab
-  artifactKey: Guid(3e2eb1a950d9d42a08d53d0383df1c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/flower.prefab using Guid(3e2eb1a950d9d42a08d53d0383df1c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc99fa20e8baaae08700a9fe5e1b9c16') in 0.179233 seconds
+  Time since last request: 86.812328 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab
+  artifactKey: Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab using Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30635fc93eba739295ed509ba3b1edec') in 0.086652 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 60
+Number of asset objects unloaded after import = 133
+========================================================================
+Received Import Request.
+  Time since last request: 3.199683 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab
+  artifactKey: Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab using Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '499f312b87e4d33cb0f58c02464fbe41') in 0.028370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 133
+========================================================================
+Received Import Request.
+  Time since last request: 8.689576 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab
+  artifactKey: Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab using Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad5d74d8fdcda763ec0c43980ff0cd0') in 0.064986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 133
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2.85 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 5.32 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7455.
-Memory consumption went from 147.0 MB to 142.8 MB.
-Total: 30.327833 ms (FindLiveObjects: 0.504125 ms CreateObjectMapping: 0.166750 ms MarkObjects: 27.190459 ms  DeleteObjects: 2.465917 ms)
+Unloading 41 unused Assets / (4.3 MB). Loaded Objects now: 7415.
+Memory consumption went from 133.2 MB to 129.0 MB.
+Total: 219.217875 ms (FindLiveObjects: 88.439875 ms CreateObjectMapping: 0.562666 ms MarkObjects: 84.732958 ms  DeleteObjects: 45.481583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 134.659248 seconds.
+  path: Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab
+  artifactKey: Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MobileARTemplateAssets/Prefabs/Plants/antherium/Wade_Model_Antherium.prefab using Guid(cd5d767b075c6465685c9e3c2de7d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9429c241fe3c700e778a17d15c853f59') in 0.664362 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 133
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (4.2 MB). Loaded Objects now: 7415.
+Memory consumption went from 131.1 MB to 126.8 MB.
+Total: 67.587041 ms (FindLiveObjects: 8.209333 ms CreateObjectMapping: 0.361583 ms MarkObjects: 55.934792 ms  DeleteObjects: 3.080583 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):

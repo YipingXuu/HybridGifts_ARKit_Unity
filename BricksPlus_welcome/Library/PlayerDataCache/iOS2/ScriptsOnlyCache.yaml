@@ -251,21 +251,21 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.SpriteState
     - UnityEngine.UI.Toggle/ToggleEvent
   methodsToPreserve:
-  - assembly: Unity.XR.ARFoundation
-    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
-    methodName: HighlightButton
-  - assembly: Unity.XR.ARFoundation
-    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
-    methodName: HighlightButton
-  - assembly: Unity.XR.ARFoundation
-    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
-    methodName: HighlightButton
-  - assembly: Unity.XR.ARFoundation
-    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
-    methodName: HighlightButton
   - assembly: Assembly-CSharp
     fullTypeName: GoalManager
     methodName: StartCoaching
+  - assembly: Unity.XR.ARFoundation
+    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
+    methodName: HighlightButton
+  - assembly: Unity.XR.ARFoundation
+    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
+    methodName: HighlightButton
+  - assembly: Unity.XR.ARFoundation
+    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
+    methodName: HighlightButton
+  - assembly: Unity.XR.ARFoundation
+    fullTypeName: UnityEngine.XR.ARFoundation.ToolButton
+    methodName: HighlightButton
   - assembly: Assembly-CSharp
     fullTypeName: ARTemplateMenuManager
     methodName: SetObjectToSpawn
@@ -384,7 +384,7 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
     methodName: ResetDebugManager
   sceneClasses:
-    Assets/Scenes/welcome_Ra.unity:
+    Assets/Scenes/welcome_W.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -3460,5 +3460,5 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   platform: 9
   scenePathNames:
-  - Assets/Scenes/welcome_Ra.unity
+  - Assets/Scenes/welcome_W.unity
   playerPath: /Users/xuyiping/Downloads/Build_welcome

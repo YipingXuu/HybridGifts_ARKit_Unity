@@ -17,31 +17,26 @@ MonoBehaviour:
   m_ReferenceObjects:
   - m_GuidLow: 5054294111359686962
     m_GuidHigh: 10064667513763104433
-    m_Name: night
+    m_Name: S_VenusFlytrap
     m_Entries:
     - {fileID: -6831329414088302235, guid: 62c87e48c84ea483dbf691f76c17855d, type: 3}
   - m_GuidLow: 4829266938304394264
     m_GuidHigh: 9875874512491135105
-    m_Name: Jade
+    m_Name: R_JadePlant
     m_Entries:
     - {fileID: -6831329414088302235, guid: 2ffc5d36bd7cd4feea6b65a8c7ce6f94, type: 3}
   - m_GuidLow: 5119375126402912545
     m_GuidHigh: 14556823210447957655
-    m_Name: Succulent
+    m_Name: C_Succulent
     m_Entries:
     - {fileID: -6831329414088302235, guid: 367473f6fea8745c0933aeaf31fde852, type: 3}
   - m_GuidLow: 5343686341350627900
     m_GuidHigh: 7741853786311515061
-    m_Name: Flower
+    m_Name: Ra_FalseShamrock
     m_Entries:
     - {fileID: -6831329414088302235, guid: 533176a547ab24dbe89347e565e1ff6b, type: 3}
-  - m_GuidLow: 5305377974467999135
-    m_GuidHigh: 11857761302448840334
-    m_Name: test
-    m_Entries:
-    - {fileID: -6831329414088302235, guid: 4a180857ef06849f7854e371cb937c89, type: 3}
   - m_GuidLow: 5351253121744713725
     m_GuidHigh: 6146588840145563540
-    m_Name: LaceLeaf
+    m_Name: W_LaceLeaf
     m_Entries:
     - {fileID: -6831329414088302235, guid: 6c981e975328a4d559f0065466f88f69, type: 3}
